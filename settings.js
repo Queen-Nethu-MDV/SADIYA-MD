@@ -1,5 +1,5 @@
-const SESSION_ID = ""
-const GITHUB_USER_NAME = ""
+const SESSION_ID = "SADIYA-MD=DgxiHSwb#BzHzFEmCu_z4cWTKsYGofXeH3z9TS3gW4-BhsKB7CuU"
+const GITHUB_USER_NAME = "Queen-Nethu-MDV"
 const GITHUB_AUTH_TOKEN = ""
 const DATABASE_REPO_NAME = "SADIYA-MD-DATABASE"
 
